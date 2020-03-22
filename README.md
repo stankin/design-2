@@ -2,6 +2,8 @@
 
 ## Часть 2. Объектно-ориентированный подход (ООП) в проектировании<br>8 семестр - 2020
 
+[Страница дисциплины в ЭОС](https://edu.stankin.ru/course/view.php?id=412)
+
 [Общий план занятий](https://github.com/stankin/design-2019/wiki) и [расписание](https://docs.google.com/spreadsheets/d/1vcvE5r6YQmjAJlQ7trysExOHkdm1HDPsKZdERrB3Nvk/edit?usp=sharing)
 
 [Кондуит](https://docs.google.com/spreadsheets/d/1o606FUz_bKJl-1OlDZsKZ94qz9LpVG4lutvelhY9wgY/edit#gid=1451005473)
